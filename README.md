@@ -1,2 +1,2 @@
-# xAPI-E-Learning-Coursware-Profile
+# xAPI-eLearning-Coursware-Profile
 xAPI eLearning Courseware Profile
